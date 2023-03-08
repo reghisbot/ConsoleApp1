@@ -100,7 +100,7 @@ namespace ConsoleApp2
                     default:
                         break;
                 }
-                Console.ReadKey();
+                //Console.ReadKey();
             }
             
         }
